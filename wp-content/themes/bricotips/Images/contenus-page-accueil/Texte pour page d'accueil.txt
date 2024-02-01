@@ -1,0 +1,18 @@
+Paragraphe:
+Bienvenue sur BricoTips, la référence sur les différents outils qui vous accompagne dans le bricolage. Vous trouverez toutes les informations qui vous aideront à comprendre chaque outil que l'on utilise pour bricoler
+
+
+Sous titre:
+Nos différentes sections
+
+Titre colonne 1:
+Les différents outils
+
+Titre colonne 2:
+Les conseils de bricolage
+
+Titre colonne 3:
+Les bons plans shopping
+
+Bloc réseaux sociaux:
+Retrouvez BricoTips sur les réseaux sociaux pour être tenu au courant à tout moment des dernières actualités, des conseils du moment et des jeux concours pour gagner des outils.

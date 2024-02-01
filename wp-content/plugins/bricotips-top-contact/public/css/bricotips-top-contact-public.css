@@ -1,0 +1,28 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+#bricotips-top-bar{
+    background: #f4ca52;
+    color: #383838;
+}
+#bricotips-top-bar .content{
+    padding: 20px;
+    margin: auto;
+    display: flex;
+    max-width: 1600px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#bricotips-top-bar .content a{
+    color: #383838;
+    font-weight: bold;
+}
+
+@media(max-width: 600px){
+    #bricotips-top-bar {
+        font-size: 12px;
+    }
+}
